@@ -13,6 +13,9 @@
 5. Provide a user-friendly website (optional)
 
 > Potential Database: https://ngdc.cncb.ac.cn/databasecommons/
+> 
+> Example: MIBiG(Minimum Information about a Biosynthetic Gene cluster): https://ngdc.cncb.ac.cn/databasecommons/database/id/7127
+
 
 ## 📖 Students Group Projects
 
