@@ -6,9 +6,9 @@
 
 ## 📖 Students Projects
 
-> Group ID: Projects Topic: Related GitHub link with detailed README files
+> Group ID: Projects Topic: Related GitHub link with detailed README files —— Team numbers
 
-G1: Metagenomics Analysis Platform; [GitHub Link](https://github.com/PKU-EMBL/awesome-ai4metagenomics-best-practice)
+G1: Metagenomics Analysis Platform: [GitHub Link](https://github.com/PKU-EMBL/awesome-ai4metagenomics-best-practice) —— James, Christy, Vivek
 
 G2: 
 
