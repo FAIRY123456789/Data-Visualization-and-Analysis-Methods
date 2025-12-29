@@ -16,7 +16,7 @@
 > 
 > Example-1: MIBiG(Minimum Information about a Biosynthetic Gene cluster): https://ngdc.cncb.ac.cn/databasecommons/database/id/7127
 >
-> Example-2: BiG-FAM(The Biosynthetic Gene Cluster Family (GCF) database )https://bigfam.bioinformatics.nl/home
+> Example-2: BiG-FAM(Biosynthetic Gene Cluster Family (GCF) database )https://bigfam.bioinformatics.nl/home
 
 
 ## 📖 Students Group Projects
