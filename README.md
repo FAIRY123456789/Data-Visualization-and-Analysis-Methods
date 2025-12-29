@@ -63,13 +63,13 @@ G18:
 ## ✒️ Citation
 
 ```bibtex
-@misc{PKU-EMBL_DataVis,
+@misc{PKU-EMBL_AI4Metagenomics,
   author       = {{PKU-EMBL}},
-  title        = {Data Visualization and Analysis Methods},
+  title        = {Awesome AI4Metagenomics Best Practice},
   year         = {2024},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/PKU-EMBL/Data-Visualization-and-Analysis-Methods}},
+  howpublished = {\url{https://github.com/PKU-EMBL/awesome-ai4metagenomics-best-practice}},
   note         = {Accessed: 2024-05-20}
 }
 ```
