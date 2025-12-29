@@ -12,6 +12,7 @@
 4. Write detialed README file and technicla report (mandatory)
 5. Provide a user-friendly website (optional)
 
+> Potential Database: https://ngdc.cncb.ac.cn/databasecommons/
 
 ## 📖 Students Group Projects
 
