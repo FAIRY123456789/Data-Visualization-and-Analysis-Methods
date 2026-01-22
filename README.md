@@ -1,4 +1,4 @@
-## PKU EMBL | Data Visualization and Analysis Methods
+<img width="574" height="81" alt="image" src="https://github.com/user-attachments/assets/f6c0fd64-4fdd-485c-8c1a-a783505c635a" />## PKU EMBL | Data Visualization and Analysis Methods
 
 ## 📣 News
 
@@ -62,7 +62,8 @@ G16:
 
 G17: 
 
-G18: 识别、量化与比较交通边界对即时配送的阻碍效应——以北京市为例：
+G18: 识别、量化与比较交通边界对即时配送的阻碍效应——以北京市为例：https://github.com/yundouzi/Group18--Transportation-Boundaries-and-On-Time-Delivery —— (哈深）范思琪、陈妮、徐静雯、王骞若
+
 
 
 ## 🔒 License
